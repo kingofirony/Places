@@ -2,7 +2,7 @@
 
 To run import project into Android studio and build with Gradle!
 
-I've attached an APK in the root directory to quickly check the app out. When you try to install the apk you will most likely be prompted to temporarily enable installing apps from unknown sources but the popups on screen should guide you.
+I've attached an APK called app-debug.apk in the root directory to quickly install the app. When you try to install the apk you will most likely be prompted to temporarily enable installing apps from unknown sources but the popups on screen should guide you to enable this.
 
 Features:
 - Swipe right to like and left to dislike places on the list. 
