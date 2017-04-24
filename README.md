@@ -4,6 +4,9 @@ To run import project into Android studio and build with Gradle!
 
 I've attached an APK called app-debug.apk in the root directory to quickly install the app. When you try to install the apk you will most likely be prompted to temporarily enable installing apps from unknown sources but the popups on screen should guide you to enable this.
 
+To easily install the apk on your phone open up [this](https://drive.google.com/file/d/0B9YOMeK_ODb-dlROV0FtUDJ3Vkk/view?usp=sharing)
+ link.
+ 
 Features:
 - Swipe right to like and left to dislike places on the list. 
 - Click on the map icon and view locations on a map.
